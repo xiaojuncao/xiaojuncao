@@ -1,0 +1,30 @@
+---
+layout: page
+title: Tiếng Việt
+sub-title: Bản quyền của <a href="http://www.cse.buffalo.edu/%7Ehungngo">NQH</a>, xin ghi rõ nguồn trước khi tái đăng, nếu có lợi nhuận thì hỏi tác giả.  Xem thêm các bài trong <a href="http://procul.org/blog/">blog Khoa Học Máy Tính</a>
+---
+
+<div class="front-full-width-container">
+<div class="container">
+<div class="table-responsive front-full-width-text">
+<table class="table table-striped table-bordered">
+  <thead>
+    <tr>
+      <th>Ngày</th>
+      <th>Bài viết</th>
+      <th>Chú thích</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for article in site.data.Vwritings %}
+    <tr>
+        <td>{{ article.date }}</td>
+        <td><a href="{{ article.url }}">{{ article.title }}</a></td>
+        <td>{{ article.note }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+</div>
+</div>
+</div>

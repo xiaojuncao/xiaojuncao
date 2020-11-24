@@ -1,0 +1,653 @@
+- authors: Ahmet Kara, Hung Q. Ngo, Milos Nikolic, Dan Olteanu, and Haozhe Zhang.
+  title: "Maintaining Triangle Queries under Updates"
+  journal: ACM Transactions on Database Systems
+  abbvr: ACM TODS
+  arxiv-link: https://arxiv.org/abs/2004.08783
+  year: 2020
+- authors: Shikha Singh, Sergey Madaminov, Michael Bender, Michael Ferdman, Ryan Johnson, Benjamin Moseley, Hung Ngo, Dung Nguyen, Soeren Olesen, Kurt Stirewalt, and Geoffrey Washburn
+  title: "A Scheduling Approach to Incremental Maintenance of Datalog Programs"
+  conf: The 34th International Parallel and Distributed Processing Symposium
+  abbvr: IPDPS
+  year: 2020
+  pdf-link: http://compas.cs.stonybrook.edu/~mferdman/downloads.php/ferdman-ipdps-scheduling_approach_to_incremental_maintenance_of_datalog_programs.pdf
+- authors: Mahmoud Abo Khamis, Phokion Kolaitis, Hung Q. Ngo, Dan Suciu
+  title: "Decision Problems in Information Theory"
+  conf: The 47th International Colloquium on Automata, Languages and Programming
+  abbvr: ICALP
+  year: 2020
+  arxiv-link: https://arxiv.org/abs/2004.08783
+- authors: Ryan R. Curtin, Benjamin Moseley, Hung Q. Ngo, XuanLong Nguyen, Dan Olteanu, and Maximilian Schleich
+  title: "Rk-means: fast clustering for relational data"
+  abbvr: AISTATS
+  arxiv-link: https://arxiv.org/abs/1910.04939
+  conf: The 23rd International Conference on Artificial Intelligence and Statistics
+  year: 2020
+- authors: Mahmoud Abo Khamis, Phokion Kolaitis, Hung Q. Ngo, Dan Suciu
+  title: "Bag Query Containment and Information Theory"
+  conf: ACM SIGMOD/PODS International Conference on Management of Data
+  abbvr: PODS
+  arxiv-link: https://arxiv.org/abs/1906.09727
+  year: 2020
+- authors: Maximilian Schleich, Dan Olteanu, Mahmoud Abo Khamis, Hung Q. Ngo, XuanLong Nguyen,
+  title: "A layered aggregate engine for analytics workloads"
+  conf: ACM SIGMOD/PODS International Conference on Management of Data
+  abbvr: ACM SIGMOD
+  year: 2019
+- authors: Mahmoud Abo Khamis, Hung Q. Ngo, XuanLong Nguyen, Dan Olteanu, and Maximilian Schleich
+  title: "Learning Models over Relational Data using Sparse Tensors and Functional Dependencies"
+  arxiv-link: https://arxiv.org/abs/1703.04780
+  journal: ACM Transactions on Database Systems
+  abbvr: ACM TODS
+  year: 2019
+- authors: Mahmoud Abo Khamis, Ryan R. Curtin, Benjamin Moseley, Hung Q. Ngo, XuanLong Nguyen, Dan Olteanu, and Maximilian Schleich
+  title: "On Functional Aggregate Queries with Additive Inequalities"
+  conf: Proceedings of the 38rd ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems
+  arxiv-link: https://arxiv.org/abs/1812.09526
+  abbvr: PODS
+  year: 2019
+- authors: Mahmoud Abo Khamis, Hung Q. Ngo, Dan Olteanu, and Dan Suciu
+  title: "Boolean Tensor Decomposition for Conjunctive Queries with Negation"
+  conf: International Conference on Database Theory
+  arxiv-link: https://arxiv.org/abs/1712.07445
+  abbvr: ICDT
+  year: 2019
+- authors: Ahmet Kara, Hung Q. Ngo, Milos Nikolic, Dan Olteanu, and Haozhe Zhang.
+  title: "Counting Triangles under Updates in Worst-Case Optimal Time"
+  conf: International Conference on Database Theory
+  arxiv-link: https://arxiv.org/abs/1804.02780
+  abbvr: ICDT
+  year: 2019
+  note: Best Paper Award at ICDT 2019
+- authors: Ahmet Kara, Hung Q. Ngo, Milos Nikolic, Dan Olteanu, and Haozhe Zhang.
+  title: "Counting Triangles under Updates in Sublinear Time (short paper)"
+  conf: Alberto Mendelzon Workshop, Cali, Colombia.
+  arxiv-link: https://arxiv.org/abs/1804.02780
+  year: 2018
+  abbvr: AMW
+- authors: Hung Q. Ngo
+  title: "Worst-case Optimal Join Algorithms: Techniques, Results, and Open Problems"
+  conf: Proceedings of the 37rd ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems
+  arxiv-link: https://arxiv.org/abs/1803.09930
+  abbvr: PODS
+  year: 2018
+- authors: Mahmoud Abo Khamis, Hung Q. Ngo, XuanLong Nguyen, Dan Olteanu, and Maximilian Schleich
+  title: "AC/DC: In-Database Learning Thunderstruck"
+  arxiv-link: https://arxiv.org/abs/1803.07480
+  conf: 2nd Workshop on Data Management for End-to-End Machine Learning
+  abbvr: DEEM
+  year: 2018
+- authors: Hung Q. Ngo, Ely Porat, Christopher Re, and Atri Rudra
+  title: "Worst Case Optimal Join Algorithms"
+  journal: Journal of the ACM, vol. 65, no. 3., 16:1--16:40
+  year: 2018
+  arxiv-link: http://arxiv.org/abs/1203.1952
+  abbvr: JACM
+- authors: Vishrawas Gopalakrishnan, Kishlay Jha, Guangxu Xun, Hung Q. Ngo, and Aidong Zhang
+  title: "Towards Self-learning Based Hypotheses Generation in Biomedical Text Domain"
+  journal: Bioinformatics 34(12), 2003--2015. Oxford University Press.
+  year: 2018
+  pdf-link: https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btx837/4774696
+- authors: Mahmoud Abo Khamis, Hung Q. Ngo, XuanLong Nguyen, Dan Olteanu, and Maximilian Schleich
+  title: "In-Database Learning with Sparse Tensors"
+  conf: Proceedings of the 37rd ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems
+  arxiv-link: https://arxiv.org/abs/1703.04780
+  abbvr: PODS
+  year: 2018
+- authors: Hung Q. Ngo, XuanLong Nguyen, Dan Olteanu, and Maximilian Schleich
+  title: "In-Database Factorized Learning"
+  conf: Alberto Mendelzon Workshop, Montevideo.
+  pdf-link: http://www.cs.ox.ac.uk/dan.olteanu/papers/nnos-amw17.pdf
+  year: 2017
+  abbvr: AMW
+- authors: Mahmoud Abo Khamis, Hung Q. Ngo, Dan Suciu
+  title: "What do Shannon-type inequalities, submodular width, and disjunctive datalog have to do with one another?"
+  conf: Proceedings of the 36rd ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems
+  note: Invited to Journal of the ACM
+  arxiv-link: https://arxiv.org/abs/1612.02503
+  note: Invited to Journal of the ACM
+  year: 2017
+  abbvr: PODS
+- authors: Mahmoud Abo Khamis, Hung Q. Ngo, Atri Rudra
+  title: "Juggling Functions Inside a Database"
+  journal: SIGMOD Records. SIGMOD Research Highlights Special Issue.
+  arxiv-link: https://arxiv.org/abs/1703.03147
+  year: 2017
+  abbvr: SIGMOD Records
+- authors: Mahmoud Abo Khamis, Hung Q. Ngo, Christopher Ré, Atri Rudra
+  title: "Joins via Geometric Resolutions: Worst-case and Beyond"
+  journal: ACM Transactions on Database Systems. Vol. 41 (4). Article 22, 45 pages.
+  year: 2016
+  arxiv-link: http://arxiv.org/abs/1404.0703
+  abbvr: ACM TODS
+- authors: Devansh Arpit, Yingbo Zhou, Hung Q. Ngo, Venu Govindaraju
+  title: "Why Regularized Auto-Encoders learn Sparse Representation?"
+  conf: Proceedings of the 33th International Conference on Machine Learning
+  arxiv-link: http://arxiv.org/abs/1505.05561
+  year: 2016
+  abbvr: ICML
+- authors: Mahmoud Abo Khamis, Hung Q. Ngo, Dan Suciu
+  title: "Computing join queries with functional dependencies"
+  conf: Proceedings of the 35rd ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems
+  arxiv-link: http://arxiv.org/abs/1604.00111
+  year: 2016
+  abbvr: PODS
+- authors: Mahmoud Abo Khamis, Hung Q. Ngo, Atri Rudra
+  title: "FAQ: Questions Asked Frequently"
+  note: Best Paper Award at PODS 2016. ACM SIGMOD Research Highlight 2016 Award.
+  conf: Proceedings of the 35rd ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems
+  year: 2016
+  abbvr: PODS
+  arxiv-link: http://arxiv.org/abs/1504.04044
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/faq-slides.pdf
+- authors: Yaniv Erlich, Anna Gilbert, Hung Ngo, Atri Rudra, Nicolas Thierry-Mieg, Mary Wootters, Dina Zielinski, Or Zuk
+  title: "Biological screens from linear codes: theory and tools"
+  journal: Submitted
+  arxiv-link: http://biorxiv.org/content/early/2015/12/25/035352
+  year: 2016
+- authors: Mahmoud Abo Khamis, Anna C. Gilbert, Hung Q. Ngo, Atri Rudra
+  title: "Sparse Approximation, List Decoding, and Uncertainty Principles"
+  journal: Submitted
+  year: 2016
+  arxiv-link: http://arxiv.org/abs/1404.5190
+- authors: Dung Nguyen, Molham Aref, Martin Bravenboer, George Kollias, Hung Q. Ngo, Christopher Ré, Atri Rudra
+  title: "Join Processing for Graph Patterns: An Old Dog with New Tricks"
+  conf: Graph Data-management Experiences & Systems Workshop (GRADES 2015), co-located with SIGMOD/PODS 2015.
+  year: 2015
+  arxiv-link: http://arxiv.org/abs/1503.04169
+- authors: Mahmoud Abo Khamis, Hung Q. Ngo, Christopher Ré, Atri Rudra
+  title: "Joins via Geometric Resolutions: Worst-case and Beyond"
+  conf: Proceedings of the 34rd ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems
+  note: Invited to the TODS as one of the best papers from PODS 2015
+  year: 2015
+  abbvr: PODS
+  arxiv-link: http://arxiv.org/abs/1404.0703
+- authors: Hung Q. Ngo, Atri Rudra
+  title: Efficiently decodable group testing
+  journal: Encyclopedia of Algorithms
+  year: 2015
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/gt-encyclopedia.pdf
+- authors: Yingbo Zhou, Utkarsh Porwal, Ce Zhang, Hung Q. Ngo, XuanLong Nguyen, Christopher Ré, Venu Govindaraju
+  title: Parallel feature selection inspired by group testing
+  conf: Proceedings of the 2014 Neural Information Processing Systems, pp. 3554--3562
+  year: 2014
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/nips14.pdf
+  abbvr: NIPS
+- authors: Nikhil Londhe, Vishrawas Gopalakrishnan, Aidong Zhang, Hung Q. Ngo, and Rohini Srihari
+  title: Matching Titles with Cross Title Web-Search Enrichment and Community Detection
+  conf: Proceedings of the 40th International Conference on Very Large Databases
+  year: 2014
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/vldb14.pdf
+  abbvr: VLDB
+- authors: Hung Q. Ngo, Dung Nguyen, Christopher Ré, Atri Rudra
+  title: Beyond Worst-Case Analysis for Joins with Minesweeper
+  conf: Proceedings of the 33rd ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems
+  year:  2014
+  arxiv-link: http://arxiv.org/abs/1302.0914
+  abbvr: PODS
+- authors: Hung Q. Ngo, Christopher Ré, Atri Rudra
+  title: "Skew Strikes Back: New Developments in the Theory of Join Algorithms"
+  journal: SIGMOD Records, vol. 42 (4)
+  year: 2013
+  abbvr: SIGMOD Records
+  arxiv-link: http://arxiv.org/abs/1310.3314
+- authors: Denisa Duma, Mary Wootters, Anna C. Gilbert, Hung Q. Ngo, Atri Rudra, Matthew Alpert, Timothy J. Close, Gianfranco Ciardo, and Stefano Lonardi
+  title: Accurate Decoding of Pooled Sequenced Data Using Compressed Sensing,
+  conf: WABI
+  year: 2013
+  pdf-link: http://www.cs.ucr.edu/~stelo/papers/WABI13.pdf
+- authors: Hung Q. Ngo, Thanh-Nhan Nguyen
+  title: Linear Programming Analysis of Switching Networks,
+  book: Handbook of Combinatorial Optimization
+  year: 2013
+- authors: Anna Gilbert, Hung Q. Ngo, Ely Porat, Atri Rudra, Martin Strauss
+  title: l2/l2-foreach sparse recovery with low risk
+  conf: The 40th International Colloquium on Automata, Languages and Programming
+  year: 2013
+  arxiv-link: http://arxiv.org/abs/1304.6232
+  abbvr: ICALP
+- authors: Liang Ge, Jing Gao, Hung Q. Ngo, Kang Li, Aidong Zhang
+  title: On Handling Negative Transfer and Imbalanced Distributions in Multiple Source Transfer Learning
+  journal: Statistical Analysis and Data Mining, Vol. 7, no. 4, 254--271
+  year: 2014
+  pdf-link: http://www.cse.buffalo.edu/DBGROUP/bioinformatics/papers/sam2014.pdf
+- authors: Liang Ge, Jing Gao, Hung Q. Ngo, Kang Li, Aidong Zhang
+  title: On Handling Negative Transfer and Imbalanced Distributions in Multiple Source Transfer Learning,
+  conf: SIAM Conference on Data Mining
+  year: 2013
+  note: Invited to the SAM as one of the best papers from SDM 2013
+  pdf-link: http://www.cse.buffalo.edu/DBGROUP/bioinformatics/papers/Liang_SDM13_SLW.pdf
+  abbvr: SDM
+- authors: Hung Q. Ngo, Duong Hieu Phan, and David Pointcheval
+  title: Black-box Trace and Revoke Codes
+  journal: Algorithmica, Volume 67, Issue 3, pages 418--448
+  year: 2013
+  pdf-link: http://www.di.ens.fr/users/pointche/Documents/Papers/2013_algorithmica.pdf
+- authors: Hung Q. Ngo, Ely Porat, Christopher Re, and Atri Rudra
+  title: "Worst Case Optimal Join Algorithms"
+  conf: Proceedings of the 31rd ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems
+  year: 2012
+  note: Best Paper Award.
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/paper49.Ngo.pdf
+  arxiv-link: http://arxiv.org/abs/1203.1952
+  abbvr: PODS
+- authors: Hung Q. Ngo, Ely Porat, and Atri Rudra
+  title: Efficiently Decodable Compressed Sensing by List-Recoverable Codes and Recursion
+  conf: Proceedings of the Symposium on Theoretical Aspects of Computer Science
+  year: 2012
+  pdf-link: http://drops.dagstuhl.de/opus/volltexte/2012/3401/
+  abbvr: STACS
+- authors: Hung Q. Ngo, Ely Porat and Atri Rudra
+  title: Efficiently Decodable Error-Correcting List Disjunct Matrices and Applications
+  conf: The 38th International Colloquium on Automata, Languages and Programming
+  year: 2011
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/NPR11.pdf
+  abbvr: ICALP
+- authors: Sunu Mathew, Michalis Petropoulos, Hung Q. Ngo, Shambu Upddhyaya
+  title: A Data-Centric Approach to Insider Attack Detection in Database Systems
+  conf: Proceedings of the 13th International Symposium on Recent Advances in Intrusion Detection
+  year: 2010
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/raid2010.pdf
+  abbvr: RAID
+- authors: Arunabha Sen, Sujogya Banerjee, Pavel Ghosh, Sudheendra Murthy and Hung Q. Ngo
+  title: "Brief Announcement: On Regenerator Placement and Routing Problems in Optical Networks"
+  conf: Proceedings of the 22nd ACM Symposium on Parallelism in Algorithms and Architectures
+  year: 2010
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/SPAA10.pdf
+  abbvr: SPAA
+- authors: Hung Q. Ngo, Atri Rudra, Anh N. Le, Thanh-Nhan T. Nguyen
+  title: Analyzing Nonblocking Switching Networks using Linear Programming (Duality)
+  conf: Proceedings of the 29th IEEE Conference on Computer Communications
+  year: 2010
+  abbvr: INFOCOM
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/infocom10.pdf
+- authors: Piotr Indyk, Hung Q. Ngo, Atri Rudra
+  title: Efficiently Decodable Non-adaptive Group Testing
+  conf: Proceedings of the 20th Annual ACM-SIAM Symposium on Discrete Algorithms
+  year: 2010
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/soda10.pdf
+  abbvr: SODA
+- authors: Seokhoon Yoon, Duc T. Ha, Hung Q. Ngo, and Chunming Qiao
+  title: "MOPADS: A Mobility Profile Aided File Downloading Service in Vehicular Networks"
+  journal: IEEE Transactions on Vehicular Technology, vol. 58, no. 9, pp. 5235--5246
+  year: 2009
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/tvt2009.pdf
+- authors: Hung Q. Ngo, Anh Le, Yang Wang
+  title: A Linear Programming Duality Approach to Analyzing Strictly Nonblocking $d$-ary Multilog Networks under General Crosstalk Constraints
+  journal: Journal of Combinatorial Optimization
+  year: 2009
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/joco2009.pdf
+- authors: Duc T. Ha and Hung Q. Ngo
+  title: On the trade-off between speed and resiliency of Flash worms and similar malcodes
+  journal: Journal of Computer Virology, vol. 5, no. 4., 309--320
+  year: 2009
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/jcv2009.pdf
+- authors: Duc T. Ha, Guanhua Yan, Stephan Eidenbenz, and Hung Q. Ngo
+  title: "On the Effectiveness of Structural Detection and Defense Against P2P-based Botnets"
+  conf: Proceedings of the 39th Annual IEEE/IFIP International Conference on Dependable Systems and Networks
+  year: 2009
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/dsn09.pdf
+  abbvr: DSN
+- authors: Hung Q. Ngo, Thanh-Nhan Nguyen, and Duc T. Ha
+  title: "Analyzing Nonblocking Multilog Networks With the Konig-Egevary Theorem"
+  journal: Discrete Mathematics, Algorithms, and Applications, vol. 1, no. 1, pp. 127--139
+  year: 2009
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/ngo-nguyen-ha-dmaa.pdf
+- authors: Hung Q. Ngo, Thanh-Nhan Nguyen, and Dahai Xu
+  title: "Hardness and Approximation of the Survivable Multi-Level Fat Tree Problem"
+  conf: Proceedings of the 28th IEEE Conference on Computer Communications
+  year: 2009
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/infocom09.pdf
+  abbvr: INFOCOM
+- authors: Yang Wang, Hung Q. Ngo, and Thanh-Nhan Nguyen
+  title: "Constructions of Given-Depth and Optimal Multirate Rearrangeably Nonblocking Distributors"
+  journal: Journal of Combinatorial Optimization, Vol. 24, No. 4 (November), 468-484
+  year: 2012
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/wang-ngo-nguyen-joco.pdf
+- authors: Hung Q. Ngo, Thanh-Nhan Nguyen, Duc Ha
+  title: "Crosstalk-Free Widesense Nonblocking Multicast Photonic Switching Networks"
+  conf: Proceedings of the 2008 IEEE Global Communications Conference (GLOBECOM)
+  year: 2008
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/ngo-nguyen-ha-GC08.pdf
+- authors: Duc Ha, Hung Q. Ngo, Madhusudhanan Chandrasekaran
+  title: "CRESTBOT: A New Family of Resilient Botnets"
+  conf: Proceedings of the 2008 IEEE Global Communications Conference (GLOBECOM)
+  year: 2008
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/crestbot-08.pdf
+- authors: Thanh-Nhan Nguyen, Hung Q. Ngo, Yang Wang
+  title: "Strictly Nonblocking $f$-cast Photonic Switching Networks under General Crosstalk Constraints"
+  conf: Proceedings of the 2008 IEEE Global Communications Conference (GLOBECOM)
+  year: 2008
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/nguyen-ngo-wang-GC08.pdf
+- authors: Hung Q. Ngo, Yang Wang, and Dazhen Pan
+  title: "Rearrangeable and Nonblocking [w,f]-Distributors"
+  journal: IEEE/ACM Transactions on Networking, vol. 17, no. 3, pp. 990--1001
+  year: 2009
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/ngo-yang-pan.pdf
+  abbvr: ToN
+- authors: Sunu Matthew, Shambhu Upadhyaya, Duc Ha, Hung Q. Ngo
+  title: Insider Abuse Comprehension through Capability Acquisition Graphs
+  conf: Proceedings of the The 11th International Conference on Information Fusion (FUSION)
+  year: 2008
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/fusion2008.pdf
+- authors: Hung Q. Ngo, Yang Wang, and Anh Le
+  title: A Linear Programming Duality Approach to Analyzing Strictly Nonblocking d-ary Multilog Networks under General Crosstalk Constraints
+  conf: Proceedings of the 14th Annual International Computing and Combinatorics Conference, pp. 509--519, LNCS 5092
+  year: 2008
+  note: Best Paper Award
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/cocoon08.pdf
+  abbvr: COCOON
+- authors: Yang Wang, Hung Q. Ngo, and Xiaohong Jiang
+  title: Strictly Nonblocking f-cast d-ary Multi-log Networks under Fanout and Crosstalk Constraints
+  conf: Proceedings of the 2008 IEEE International Conference on Communications (ICC)
+  year: 2008
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/icc2008.pdf
+- authors: Hung Q. Ngo, Yang Wang, Anh Le, and Xiaohong Jiang
+  title: Better Necessary Conditions for Rearrangeably Nonblocking f-cast d-ary Multi-log Networks under Fanout and Crosstalk Constraints
+  conf: Proceedings of the 2008 International Workshop on High Performance and Highly Survivable Routers and Networks (HPSRN)
+  year: 2008
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/hpsrn08.pdf
+- authors: Duc T. Ha and Hung Q. Ngo
+  title: On the trade-off between speed and resiliency of Flash worms and similar malcodes
+  conf: Proceedings of The 5th ACM Workshop on Recurring Malcode (WORM), in association with the 14th ACM Conference on Computer and Communications Security (CCS)
+  year: 2007
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/worm07.pdf
+- authors: Duc Ha, Shambhu Upadhyaya, Hung Q. Ngo, S. Pramanik, R. Chinchani, and S. Mathew
+  title: Insider Threat Analysis Using Information-Centric Modeling
+  book: Advances in Digital Forensics III, P. Craiger and S. Shenoi (Eds.), Springer, Boston
+  year: 2007
+  pdf-link: http://www.cse.buffalo.edu/~shambhu/documents/pdf/ifip-chapter-2007.pdf
+- authors: Seokhoon Yoon, Hung Q. Ngo, and Chunming Qiao
+  title: On "Shooting" and moving vehicle with data flows
+  conf: Proceedings of the MObile Networks for Vehicular Environments workshop (MOVE), in conjunction with INFOCOM.
+  year: 2007
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/move07.pdf
+- authors: Yang Wang, Hung Q. Ngo, and Thanh-Nhan Nguyen
+  title: Constructions of Given-Depth and Optimal Multirate Rearrangeably Nonblocking Distributors
+  conf: Proceedings of the 2007 IEEE Workshop on High Performance Switching and Routing (HPSR), pp. 199--204.
+  year: 2007
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/hpsr07.pdf
+- authors: Joy Ghosh, Hung Q. Ngo, Seokhoon Yoon and Chunming Qiao
+  title: On a Routing Problem within Probabilistic Graph
+  conf: Proceedings of the 26th IEEE Conference on Computer Communications
+  year: 2007
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/infocom07.pdf
+  abbvr: INFOCOM
+- authors: Hung Q. Ngo
+  title: On a Hyperplane Arrangement Problem and Tighter Analysis of an Error-Tolerant Pooling Design
+  journal: Journal of Combinatorial Optimization, Vol. 15, No. 1, pp. 61--76.
+  year: 2008
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/JCO-06.pdf
+- authors: Sumesh J. Philip, Joy Ghosh, Hung Q. Ngo and C. Qiao
+  title: Routing on Overlay Graphs in Mobile Ad hoc Networks
+  conf: Proceedings of the IEEE Global Telecommunications Conference (GLOBECOM)
+  year: 2006
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/philip-ghosh-ngo-qiao.pdf
+- authors: Hoang D. Tuan, Nguyen T. Hoang, Hung Q. Ngo, Tuy Hoang, Ba-Ngu Vo
+  title: A frequency-selective positive real lemma and its applications to IIR filter design
+  conf: Proceedings of the 45th IEEE Conference on Decision and Control.
+  year: 2006
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/CDC06.pdf
+- authors: Hung Q. Ngo, Dazhen Pan, and Yuanyuan Yang
+  title: Optical Switching Networks with Minimum Number of Limited Range Wavelength Converters
+  journal: IEEE/ACM Transactions on Networking, vol. 15, no. 4, pp. 969--979.
+  year: 2007
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/ToN06.pdf
+- authors: Peng Lin, Hung Q. Ngo, Chunming Qiao, Xin Wang, and Ting Wang
+  title: Minimum cost wireless broadband overlay network planning
+  conf: Proceedings of the International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM)
+  year: 2006
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/lin-wowmom.pdf
+- authors: Joy Ghosh, Matt Beal, Hung Q. Ngo, and Chunming Qiao
+  title: On Profiling Mobility and Predicting Locations of Wireless Users
+  conf: "Proceedings of the second international workshop on Multi-hop ad hoc networks: from theory to reality (ACM/SIGMOBILE REALMAN), in conjunction with ACM MobiHoc"
+  year: 2006
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/ghosh-realman.pdf
+- authors: Joy Ghosh, Hung Q. Ngo, and Chunming Qiao
+  title: Mobility Profile based Routing within Intermittently Connected Mobile Ad hoc Networks (ICMAN)
+  conf: Proceeding of the 2006 international conference on Communications and mobile computing (IWCMC), pp. 551--556
+  year: 2006
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/ghosh-iwcmc.pdf
+- authors: Joy Ghosh, Hung Q. Ngo, Chunming Qiao, and Cedric Westphal
+  title: Bridging Intermittently Connected Mobile Ad hoc Networks (ICMAN) with Sociological Orbits,
+  conf: INFOCOM, Poster and Demo Session.
+  year: 2006
+- authors: Hung Q. Ngo, Dazhen Pan, and Chunming Qiao
+  title: Constructions and Analyses of Nonblocking WDM Switches Based on Arrayed Waveguide Grating and Limited Wavelength Conversion
+  journal: IEEE/ACM Transactions on Networking, vol. 14, no. 1, pp. 205--217.
+  year: 2006
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/ngo-pan-qiao-ToN06.pdf
+  abbvr: ToN
+- authors: Hung Q. Ngo
+  title: WDM Switching Networks, Rearrangeable and Nonblocking [w,f]-Connectors
+  journal: SIAM Journal on Computing, vol. 35, no. 3, pp. 766--785.
+  year: 2006
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/wdm-complexity.pdf
+  abbvr: SIAM J. Comp.
+- authors: Ramkumar Chinchani, Duc T. Ha, Anusha R. Iyer, Hung Q. Ngo, and Shambhu J Upadhyaya
+  title: "Insider threat assessment: model, analysis, and tool"
+  book: Network Security, S. Huang, D. MacCallum, D.-Z. Du (editors), Kluwer Academic Publisher
+  year: 2005
+- authors: Ramkumar Chinchani, Duc T. Ha, Anusha R. Iyer, Hung Q. Ngo, and Shambhu J Upadhyaya
+  title: On the Hardness of Approximating the MIN-HACK Problem
+  journal: Journal of Combinatorial Optimization, vol.9, no. 3, pp 295--311.
+  year: 2005
+  pdf-link: http://www.cse.buffalo.edu/tech-reports/2005-05.pdf
+- authors: Ramkumar Chinchani, Anusha R. Iyer, Hung Q. Ngo, and Shambhu J Upadhyaya
+  title: Towards A Theory Of Insider Threat Assessment
+  conf: Proceedings the 2005 International Conference on Dependable Systems and Networks
+  year: 2005
+  abbvr: DSN
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/dsn05.pdf
+- authors: Hung Q. Ngo, Dazhen Pan, and Yuanyuan Yang
+  title: Optical Switching Networks with Minimum Number of Limited Range Wavelength Converters
+  conf: Proceedings of the 24th IEEE Conference on Computer Communications, Vol. 2, 1128--1138
+  year: 2005
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/infocom05.pdf
+  abbvr: INFOCOM
+- authors: Hung Q. Ngo
+  title: "WDM switching networks: complexity and constructions"
+  book: Combinatorial Optimization in Communication Networks, D.-Z. Du, M. Cheng, and Y. Li (eds.), Springer Combinatorial Optimization Series, vol. 18, pp 395--426.
+  year: 2006
+- authors: Harleen Dhillon and Hung Q. Ngo
+  title: "CQMP: A Mesh-based Multicast Routing Protocol with consolidated Query Packets"
+  conf: Proceedings of the IEEE Wireless Communications & Networking Conference (WCNC), Vol. 4, pp. 2168--2174, IEEE,
+  year: 2005
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/cqmp.pdf
+- authors: L. Ruan, S. Han, D. Li, Hung Q. Ngo, and S. Huang
+  title: Transmission Fault-Tolerance of Iterated Line Digraphs
+  journal: Journal of Interconnection Networks, vol 5, no 4, pp 475 -- 487.
+  year: 2004
+  pdf-link: http://www.cs.umn.edu/tech_reports_upload/tr2000/00-058.pdf
+- authors: Hung Q. Ngo
+  title: Multiwavelength Distribution Networks
+  conf: Proceedings of the 2004 Workshop on High Performance Switching and Routing (HPSR), pp. 186--190, IEEE
+  year: 2004
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/wfd04.pdf
+- authors: Dazhen Pan, Purnima Mavinjurve, Hung Q. Ngo, Vikas Verma, and Amit Chandak
+  title: "DMIP3S: Distributed Algorithms for Power-Conserving Multicasting in Static Wireless Ad Hoc Networks"
+  conf: Proceedings of the 2004 Workshop on High Performance Switching and Routing (HPSR), pp. 236--240, IEEE
+  year: 2004
+  pdf-link: http://www.cse.buffalo.edu/tech-reports/DIMP3S.pdf
+- authors: Dazhen Pan, Vishal Anand, and Hung Q. Ngo
+  title: Cost-effective constructions for nonblocking WDM multicast switching networks
+  conf: Proceedings of the 2004 International Conference on Communications (ICC), Vol. 3, pp. 1801- 1805, IEEE
+  year: 2004
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/icc04.pdf
+- authors: Hung Q. Ngo, Dazhen Pan, Shiva-Shankar Ramanna, and Suchita Kaundin
+  title: "IP3S: a framework for power-conserving multicast and broadcast algorithms in static wireless ad hoc networks"
+  book: Resource Management in Wireless Networking, M. Cardei, I. Cardei and D.-Z. Du (eds.), Springer, Network Theory and Applications series, vol. 16, pp 610--639.
+  year: 2005
+- authors: Hung Q. Ngo, Dazhen Pan, and Chunming Qiao
+  title: Nonblocking WDM switches base on arrayed waveguide grating and limited wavelength conversion
+  conf: Proceedings of the 23rd IEEE Conference on Computer Communications
+  year: 2004
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/infocom04.pdf
+  abbvr: INFOCOM
+- authors: Vikas P. Verma, Amit Chandak, and Hung Q. Ngo
+  title: "DIP3S: A Distributive Routing Algorithm for Power-Conserving Broadcasting in Wireless Ad Hoc Networks"
+  conf: Proceedings of the Fifth IFIP-TC6 International Conference on Mobile and Wireless Communications Networks (MWCN), pp. 159--162
+  year: 2003
+- authors: Purnima Marvinkuve, Hung Q. Ngo, and Himanshu Mehra
+  title: "MIP3S: Algorithms for Power-conserving Multicasting in Wireless Ad Hoc Networks"
+  conf: Proceedings of the 11th IEEE International Conference on Networks (ICON), Sep 28 -- Oct 1
+  year: 2003
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/mip3s.pdf
+- authors: Hung Q. Ngo and Van H. Vu
+  title: On Multirate Rearrangeable Clos Networks and a Generalized Edge Coloring Problem on Bipartite Graphs
+  journal: SIAM Journal on Computing, vol. 32, no. 4, pp. 1040--1049.
+  year: 2003
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/ngo-vu-SICOMP03.pdf
+  abbvr: SIAM J. Comp.
+- authors: Xiaoyan Cheng, Xiufeng Du, Manki Min, Hung Q. Ngo, Lu Ruan, Jianhua Sun, and Weili Wu
+  title: Super link-connectivity of Iterated Line Digraphs
+  journal: Theoretical Computer Science, vol. 304, no. 1-3, pp. 461--469.
+  year: 2003
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/super-link.pdf
+- authors: Hung Q. Ngo
+  title: A New Routing Algorithm for Multirate Rearrangeable Clos Networks
+  journal: Theoretical Computer Science, vol. 290, no. 3, pp. 2157-2167.
+  year: 2003
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/tcs02.pdf
+- authors: Hung Q. Ngo and Van H. Vu
+  title: On Multirate Rearrangeable Clos Networks and a Generalized Edge Coloring Problem on Bipartite Graphs
+  conf: Proceedings of the Fourteenth Annual ACM-SIAM Symposium on Discrete Algorithms, pp. 834--840
+  year: 2003
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/soda03.pdf
+  abbvr: SODA
+- authors: Hung Q. Ngo, Dazhen Pan and Vikas Verma
+  title: Power-Conserving Algorithms and Protocols in Ad Hoc Networks
+  book: "Ad Hoc Networking: Recent Advances, Kluwer Academic Publishers, Network Theory and Applications series, vol. 14, pp 383--446."
+  year: 2004
+- authors: Hung Q. Ngo
+  title: "P-Species and the q-Mehler formula"
+  journal: Séminaire Lotharingien de Combinatoire, vol. 48, Article B48b, 21pp.
+  year: 2002
+  note: "See <a href=\"http://www-irma.u-strasbg.fr/~foata/paper/pub93.html\">Prof. Foata's comments</a> on how this paper's contribution relates to others"
+  pdf-link: http://www.mat.univie.ac.at/~slc/wpapers/s48ngo.pdf
+- authors: Srivatsan Varadarajan, Hung Q. Ngo and Jaideep Srivastava
+  title: "Error Spreading: A Perception-Driven Approach Orthogonal to Error Handling in Continuous Media Streaming"
+  journal: IEEE/ACM Transactions on Networking, vol. 10, no. 1, pp. 139--152.
+  year: 2002
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/es.pdf
+  abbvr: ToN
+- authors: Ding-Zhu Du, D.F. Hsu, Hung Q. Ngo, and G. W. Peck
+  title: On Connectivity of Consecutive-d Digraphs
+  journal: Discrete Mathematics, vol. 257, no. 2-3, pp. 371-384
+  year: 2002
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/consecutiveD.pdf
+- authors: Hung Q. Ngo, Ding Zhu Du, and R. L. Graham
+  title: New Bounds on a Hypercube Coloring Problem
+  journal: Information Processing Letters, vol. 84, no. 5, pp. 265--269.
+  year: 2002
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/newBounds.pdf
+- authors: Ding-Zhu Du, Frank. K Hwang, X. Jia, and Hung Q. Ngo
+  title: "Optimal Consecutive k-out-of-n: G cycle for n <= 2k+1"
+  journal: SIAM Journal on Discrete Mathematics, vol. 15, no. 3, pp. 305 - 316.
+  year: 2002
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/optimal-consecutive-k-out-of-n.pdf
+- authors: Ding-Zhu Du and Hung Q. Ngo
+  title: An Extension of DHH-Erdos Conjecture on Cycle-Plus-Triangle Graphs
+  journal: Taiwanese Journal of Mathematics, vol. 6, no. 2, pp. 261-267.
+  year: 2002
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/dhhErdos.pdf
+- authors: Hung Q. Ngo, and Ding-Zhu Du
+  title: New Constructions of Non-Adaptive and Error-Tolerance Pooling Designs
+  journal: Discrete Mathematics, vol. 243, no. 1-3, pp. 161--170.
+  year: 2002
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/cgt1.pdf
+- authors: Xiuzheng Cheng, Ding-Zhu Du, Joon-Mo Kim and Hung Q. Ngo
+  title: Guilotine cut in approximation algorithms
+  conf: Proceedings of the First Workshop on Cooperative Control and Optimization, Kluwer Academic Publishers, pp. 21--34
+  year: 2002
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/guillotineCut.pdf
+- authors: Ding-Zhu Du, Frank. K Hwang, J. Jung, and Hung Q. Ngo
+  title: "Optimal Consecutive k-out-of-(2k+1): G cycle"
+  journal: Journal of Global Optimization, vol. 19, no. 1, 51-60
+  year: 2001
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/du-hwang-jung-ngo2001.pdf
+- authors: Ding-Zhu Du and Hung Q. Ngo (editors)
+  title: "Switching Networks: Recent Advances"
+  book: Network Theory and Applications Series, vol. 5, Kluwer Academic Publisher, 368pp., ISBN 0-7923-6953-X"
+  year: 2001
+- authors: Hung Q. Ngo and Ding-Zhu Du
+  title: Notes on Complexity of Switching Networks
+  book: "Switching Networks: Recent Advances, (D.-Z. Du and H.Q. Ngo, Editors), Kluwer Academic Publishers, Network Theory and Applications series, vol. 5, pp. 305--357."
+  year: 2001
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/SN-complexity.pdf
+- authors: Hung Q. Ngo
+  title: Issues in Interconnection Networks
+  book: Ph.D. Dissertation, 226 pages, Computer Science department, University of Minnesota at Twin Cities.
+  year: 2001
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/dissertation.pdf
+- authors: Hung Q. Ngo
+  title: "P-species and the q-Mehler's Formula"
+  book: Mathematics Masters Thesis, Mathematics department, University of Minnesota at Twin Cities.
+  year: 2001
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/mathThesis.pdf
+- authors: X. Cheng, Y. Li, D.-Z.Du, and Hung Q. Ngo
+  title: Steiner Trees in Industries
+  book: Handbook of Combinatorial Optimization. Supplement Vol. B, pp 193--216, Springer, New York
+  year: 2005
+  pdf-link: http://www.cs.gsu.edu/yli/papers/steiner.pdf
+- authors: Ding-Zhu Du, Bing Lu, Hung Q. Ngo and Panos Pardalos
+  title: The Steiner Tree Problem
+  book: The Encyclopedia of Optimization, (C.A. Floudas and P.M. Pardalos. Editors) Kluwer Academic Publishers, vol. 5, pp. 277--290.
+  year: 2001
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/steinerTree.pdf
+- authors: Hung Q. Ngo, Ding-Zhu Du, and R. L. Graham
+  title: New bounds on a hypercube coloring problem and linear codes
+  conf: "Proceedings of the International Conference on Information Technology: Coding and Computing (ITCC), pp. 542-546, IEEE"
+  year: 2001
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/itcc2001.pdf
+- authors: Hung Q. Ngo, and Ding-Zhu Du
+  title: On the Rearrangeability of Shuffle-Exchange Networks
+  conf: Proceedings of the 4th International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP).
+  year: 2000
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/seConf.pdf
+- authors: Shituo Han, Hung Q. Ngo, Lu Ruan, and Ding-Zhu Du
+  title: Transmission Fault-Tolerance of Iterated Line Digraphs
+  conf: Proceedings of the Workshop on Autonomous Computing and Systems
+  year: 2001
+  pdf-link: http://www.cs.umn.edu/tech_reports_upload/tr2000/00-058.pdf
+- authors: Hung Q. Ngo, and Ding-Zhu Du
+  title: A Survey on Combinatorial Group Testing Algorithms with Applications to DNA Library Screening
+  book: Discrete mathematical problems with medical applications (New Brunswick, NJ), 171--182, DIMACS Ser. Discrete Math. Theoret. Comput. Sci., 55, Amer. Math. Soc.
+  year: 2000
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/dimacsCGT.pdf
+- authors: Srivatsan Varadarajan, Hung Q. Ngo, and Jaideep Srivastava
+  title: "Error Spreading: A Perception-Driven Approach to Error Handling in Continuous Media Streaming"
+  conf: Proceedings of The 20th International Conference on Distributed Computing Systems, pp. 475-483
+  year: 2000
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/es2.pdf
+  abbvr: ICDCS
+- authors: Hung Q. Ngo, Srivatsan Varadarajan, and Jaideep Srivastava
+  title: "Error Spreading: Reducing Bursty Errors in Continuous Media Streaming"
+  conf: Proceedings of IEEE Multimedia Systems, vol. 1, pp. 314-319
+  year: 1999
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/es1.pdf
+  abbvr: ICMCS
+- authors: Jaideep Srivastava and Hung Q. Ngo
+  title: Statistical Databases
+  book: Wiley Encyclopedia of Electrical and Electronics Engineering, John Wiley and Sons
+  year: 1999
+  pdf-link: http://www.cs.umn.edu/tech_reports_upload/tr1999/99-009.pdf
+- authors: Hung Q. Ngo
+  title: On Optimal Frame Transmission Order of Continuous Media Streams
+  book: Computer Science Masters Report, University of Minnesota at Twin Cities.
+  year: 1999
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/masters.pdf
+- authors: J.R. Kriessler, R.M. Humphreys, J.E. Cabanela, R.F. Rees, Hung Ngo, and J. Srivastava
+  title: The New APS Catalog of the POSS I
+  journal: Bulletin of the American Astronomical Society, 192, \#55.09.
+  year: 1998
+  pdf-link: http://aas.org/archives/BAAS/v30n2/aas192/abs/S055009.html
+- authors: Wonjun Lee, Difu Su, Hung Q. Ngo, and J. Srivastava
+  title: A QoS-Driven Networked Continuous Media Server
+  conf: "Proceedings of SPIE International Symposium on Lasers, Optpelectronics, and Microphonics: Electronic Imaging and Multimedia Systems II, vol. 3561, pp. 274-285"
+  year: 1998
+  pdf-link: http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=972023
+- authors: C.S. Cornuelle, J.E. Cabanela, Hung Ngo, J. Srivastava, R. Rees, J.R. Kriessler, Humphreys
+  title: The APS Catalogs of the POSS I - New Data and New Tools
+  journal: Bulletin of the American Astronomical Society, 191, \#16.07
+  year: 1997
+  pdf-link: https://aas.org/archives/BAAS/v29n5/aas191/abs/S016007.html

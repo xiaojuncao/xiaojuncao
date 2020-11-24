@@ -1,0 +1,51 @@
+---
+layout: page
+title: Publications
+sub-title: There may be discrepancies between the electronic and printed versions of papers.
+---
+
+<div class="front-full-width-container">
+<div class="container front-full-width-text">
+  <ul reversed>
+    {% assign papers = site.data.my_papers | sort:"year" %}
+    {% for paper in papers reversed %}
+    {% assign loopindex = forloop.index | modulo: 2 %}
+    {% if loopindex == 0 %}
+       <li style="background-color:#eeeeee"> 
+    {% else %}
+       <li>
+    {% endif %}
+           {% if paper.note %}
+             <span class="label label-info">{{ paper.note }}</span><br>
+           {% endif %}
+           {{ paper.authors }}<br>
+           "<strong>{{ paper.title }}</strong>"
+           {% if paper.abbvr%}
+           <strong><span class="paper-abbreviation">{{ paper.abbvr }}</span></strong>
+           {% endif %}
+           <br>
+           {% if paper.conf %}
+              {{ paper.conf }}
+           {% endif %}
+           {% if paper.journal %}
+             {{ paper.journal }}
+           {% endif %}
+           {% if paper.book %}
+             {{ paper.book }}
+           {% endif %}
+           <span class="paper-abbreviation">{{ paper.year }}</span>
+           <br>
+           {% if paper.pdf-link %}
+              [ <a href="{{ paper.pdf-link }}">pdf</a> ]
+           {% endif %}
+           {% if paper.arxiv-link %}
+              [ <a href="{{ paper.arxiv-link}}">full version</a> on ArXiV ]
+           {% endif %}
+           {% if paper.talk-slides %}
+              [ <a href="{{ paper.talk-slides}}">talk slides</a> ]
+           {% endif %}
+           <br>
+    {% endfor %}
+  </ul>
+</div>
+</div>
