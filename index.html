@@ -1,0 +1,137 @@
+---
+layout: front
+title: Home
+---
+
+    <!-- Work and Contact -->
+    <div class="front-full-width-container">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-7 front-full-width-text">
+                  <h3>Summary</h3>
+                    <ul>
+                      <li>Aug. 2016 -- present: Professor of <a href="http://cs.gsu.edu/">Computer Scienc</a>, <a href="http://www.gsu.edu">Georgia State University</a>.
+					  <li>2007-2016 (Assistant &#x2192; Associate &#x2192; Full) Professor of <a href="http://cs.gsu.edu/">Computer Scienc</a>, <a href="http://www.gsu.edu">Georgia State University</a>.
+                      <li>2013-2017 Director of Graduate Studies <a href="http://cs.gsu.edu/">Computer Scienc</a>, <a href="http://www.gsu.edu">Georgia State University</a>.
+                      <li>2004 July- 2007 Aug. Assistant Professor of <a href="https://www.rit.edu/computing/">College of Computing and Information Sciences</a>.
+                      <li> Education:
+                      <ul>
+                         <li> Ph.D. in <a href="http://www.cse.buffalo.edu">Computer Science </a>, The State University of New York at Buffalo.
+                         <li> M.S. in <a href="http://english.cas.cn">Electrical Engineering</a>, Chinese Academy of Sciences.
+						 <li> B.S. in  <a href="https://www.tsinghua.edu.cn/en/">Engineering Physics </a>, Tsinghua University.
+                      </ul>
+                    </ul>
+                </div>
+                <div class="col-sm-5 front-full-width-text fadeInUp">
+                    <h3>Professional Information</h3>
+                    <div>
+                       <p><i class="fa fa-university"></i> Recent proefessional services:
+                         <ul>
+                           <li> IEEE Distinguished Lecturer
+						   <li> IEEE Comsoc ONTC Chair (2017-19, vice chair (2015-17), secretary (2013-15)  
+                           <li> INFOCOM 2021, 2020, 2019
+                         </ul>
+                       </p>
+                       <p><i class="fa fa-envelope"></i> Put <code>dot</code>s and
+                       <code>@</code> in between a permutation of the the following words  &nbsp; <code>cao</code>
+                       <code>gsu</code>
+                       <code>edu</code>
+                       </p>
+                       <p><i class="fa fa-graduation-cap"></i> <a href="CV/cao.pdf">Curriculum Vitae</a>, <span class="label label-warning">often not up to date</span></p>
+                       <p><i class="fa fa-book"></i> Current research interest: networking and information systems.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+      <!-- Selected Talks -->
+      <div class="front-full-width-text">
+      <div class="container">
+      <h3>Biography</h3>
+      <ul>
+        <li> “Service Function Chaining and Embedding”, Asia Communications and Photonics Conference (ACP 2020), Oct. 24-27, 2020, Beijing, China (Invited). </li>
+        <li>“Applications and Challenges in Network Virtualization”, IEEE Distinguished Lecture, IEEE Comsoc Baltimore Chapter, Nov. 2020 (Invited)&nbsp;</li>
+      </ul>
+      </div>
+      </div>
+
+      <!-- Recent Papers -->
+      <div class="front-full-width-text">
+      <div class="container">
+      <h3>Recent papers</h3>
+      <ul>
+        <li>1. D. Zheng, H. Gu, W. Wei, C. Peng and X. Cao, "Network Service Chaining and Embedding with Provable Boundaries," accepted in IEEE Internet of Things Journal, 202</li>
+        <li>&nbsp;D. Zheng, C. Peng, X. Liao and X. Cao, "Toward Optimal Hybrid Service Function Chain Embedding in Multiaccess Edge Computing," in IEEE Internet of Things Journal, vol. 7, no. 7, pp. 6035-6045, July 2020, doi: 10.1109/JIOT.2019.2957961&nbsp;</li>
+        <li>&nbsp;. Kong, G. Luo, L. Tian, and X. Cao, “Disseminating authorized content via data analysis in opportunistic social networks,” Big Data Mining and Analytics, Vol.2, No.1, pp. 12-24, Mar. 2019 (Yearly Excellent Paper Award, 2020 )&nbsp;</li>
+        <li>D. Zheng, C. Peng, X. Liao, L. Tian, G. Luo and X. Cao, “Towards Latency Optimization in Hybrid Service Function Chain Composition and Embedding,” in IEEE International Conference on Computer Communications (INFOCOM), 2020&nbsp;</li>
+<li>&nbsp;B. Camp, J. Mandivarapu, J. Mehta, N. Ramamurthy, J. Wingo, A. G. Bourgeois, X. Cao and R. Sunderraman, “A New Cross-Platform Architecture for Epi-Info Software Suite,” BMC Bioinformatics, pp. 359:1-8, 2018&nbsp;
+        <!--         
+        <li> <span class="label label-info">Best paper award</span>
+            Mahmoud Abo Khamis, Hung Q. Ngo, Atri Rudra,
+           "<em>FAQ: Questions Asked Frequently</em>",
+             <a href="http://www.sigmod2016.org">PODS 2016</a>.
+             [<a href="http://arxiv.org/abs/1504.04044">ArXiV version</a>]
+             [<a href="http://www.cse.buffalo.edu/~hungngo/papers/faq-slides.pdf">Talk slides</a>]
+             <span class="label label-info">2016 ACM SIGMOD Research Highlight Award</span>
+             <span class="label label-info">Invited to Journal of the ACM</span>
+             <span class="label label-info">Invited to Theory Fest at STOC 2017</span>
+-->
+        </li>
+      </ul>
+      </div>
+      </div>
+
+        <!-- Testimonials -->
+        <div class="testimonials-container">
+	        <div class="container">
+	        	<div class="row">
+		            <div class="col-sm-12 testimonials-title wow fadeIn">
+		                <h2>Some Quotes</h2>
+		            </div>
+	            </div>
+	            <div class="row">
+	                <div class="col-sm-10 col-sm-offset-1 testimonial-list">
+	                	<div role="tabpanel">
+	                		<!-- Tab panes -->
+	                		<div class="tab-content">
+                           {% for quote in site.data.quotes %}
+                           {% if forloop.index == 1 %}
+	                			<div role="tabpanel" class="tab-pane fade in active" id="tab{{ forloop.index }}">
+                           {% else %}
+	                			<div role="tabpanel" class="tab-pane fade" id="tab{{ forloop.index }}">
+                           {% endif %}
+	                				<div class="testimonial-image">
+	                					<img src="{{ quote.image }}" alt="" data-at2x="{{ quote.image }}">
+	                				</div>
+	                				<div class="testimonial-text">
+		                                <p>
+		                                	"{{ quote.quote }}"<br>
+		                                	{% if quote.source %}
+                                           {{ quote.source }}<br>
+                                       {% endif %}
+		                                	<a href="{{ quote.url }}">{{ quote.author }}</a>
+		                                </p>
+	                                </div>
+	                			</div>
+                           {% endfor %}
+
+	                		</div>
+	                		<!-- Nav tabs -->
+	                		<ul class="nav nav-tabs" role="tablist">
+                           {% for quote in site.data.quotes %}
+                           {% if forloop.index == 1 %}
+	                			<li role="presentation" class="active">
+                           {% else %}
+	                			<li role="presentation">
+                           {% endif %}
+	                				<a href="#tab{{ forloop.index }}"
+                              aria-controls="tab{{ forloop.index }}" role="tab" data-toggle="tab"></a>
+	                			</li>
+                           {% endfor %}
+	                		</ul>
+	                	</div>
+	                </div>
+	            </div>
+	        </div>
+        </div>
+    </div>
