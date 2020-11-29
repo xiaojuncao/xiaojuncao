@@ -3,16 +3,20 @@
   quote:	Sometimes it happens that a man's circle of horizon becomes smaller and smaller, and as the radius approaches zero it concentrates on one point. And then that becomes his point of view.
   url: http://www-history.mcs.st-and.ac.uk/Biographies/Hilbert.html
 - author: Confucius
-  image: assets/img/testimonials/Confucius.jpg
+  image: assets/img/testimonials/confucius.jpg
   quote: Real knowledge is to know the extent of one’s ignorance.
   url: https://medium.com/better-marketing/real-knowledge-is-to-know-the-extent-of-ones-ignorance-c53696a7dfe
-- author: Godfrey Harold Hardy
-  image: assets/img/testimonials/hardy.jpg
-  quote: "Beauty is the first test: there is no permanent place in the world for ugly Mathematics."
-  url: http://www-history.mcs.st-and.ac.uk/Biographies/Hardy.html
+- author: Albert Einstein
+  image: assets/img/testimonials/einstein.jpg
+  quote: Imagination is more important than knowledge.  For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution.
+  url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
   source: "<em>A Mathematician's Apology</em> (London 1941)."
 - author: Alan Turing
   url: http://en.wikipedia.org/wiki/Alan_Turing
   quote: We can only see a short distance ahead, but we can see plenty there that needs to be done.
   image: assets/img/testimonials/turing.jpg
   source: "<em>Computing Machinery and Intelligence</em> (1950). (<a href=\"http://www.loebner.net/Prizef/TuringArticle.html\">The paper</a>)"
+- author: Benjamin Franklin
+  image: assets/img/testimonials/benjamin.jpg
+  quote: Tell me and I forget.  Teach me and I remember.  Involve me and I learn.
+  url: https://www.biography.com/scholar/benjamin-franklin
