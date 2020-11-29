@@ -1,3 +1,7 @@
+- author: Benjamin Franklin
+  image: assets/img/testimonials/benjamin.jpg
+  quote: Tell me and I forget.  Teach me and I remember.  Involve me and I learn.
+  url: https://www.biography.com/scholar/benjamin-franklin
 - author: David Hilbert
   image: assets/img/testimonials/hilbert.jpeg
   quote:	Sometimes it happens that a man's circle of horizon becomes smaller and smaller, and as the radius approaches zero it concentrates on one point. And then that becomes his point of view.
@@ -15,7 +19,3 @@
   quote: We can only see a short distance ahead, but we can see plenty there that needs to be done.
   image: assets/img/testimonials/turing.jpg
   source: "<em>Computing Machinery and Intelligence</em> (1950). (<a href=\"http://www.loebner.net/Prizef/TuringArticle.html\">The paper</a>)"
-- author: Benjamin Franklin
-  image: assets/img/testimonials/benjamin.jpg
-  quote: Tell me and I forget.  Teach me and I remember.  Involve me and I learn.
-  url: https://www.biography.com/scholar/benjamin-franklin
