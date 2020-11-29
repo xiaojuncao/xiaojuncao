@@ -10,7 +10,6 @@
   image: assets/img/testimonials/einstein.jpg
   quote: Imagination is more important than knowledge.  For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution.
   url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-  source: "<em>A Mathematician's Apology</em> (London 1941)."
 - author: Alan Turing
   url: http://en.wikipedia.org/wiki/Alan_Turing
   quote: We can only see a short distance ahead, but we can see plenty there that needs to be done.
