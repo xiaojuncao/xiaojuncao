@@ -2,10 +2,10 @@
   image: assets/img/testimonials/hilbert.jpeg
   quote:	Sometimes it happens that a man's circle of horizon becomes smaller and smaller, and as the radius approaches zero it concentrates on one point. And then that becomes his point of view.
   url: http://www-history.mcs.st-and.ac.uk/Biographies/Hilbert.html
-- author: Bùi Giáng
-  image: assets/img/testimonials/buigiang.jpg
-  quote: Hỏi rằng người ở quê đâu<br>Thưa rằng tôi ở rất lâu quê nhà
-  url: http://www.thanhnien.com.vn/event/chuyen-doi-bui-giang-1017.html
+- author: Confucius
+  image: assets/img/testimonials/Confucius.jpg
+  quote: Real knowledge is to know the extent of one’s ignorance.
+  url: https://medium.com/better-marketing/real-knowledge-is-to-know-the-extent-of-ones-ignorance-c53696a7dfe
 - author: Godfrey Harold Hardy
   image: assets/img/testimonials/hardy.jpg
   quote: "Beauty is the first test: there is no permanent place in the world for ugly Mathematics."
