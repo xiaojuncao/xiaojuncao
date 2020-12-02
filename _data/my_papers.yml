@@ -75,7 +75,7 @@
   abbvr:  IEEE IoT-J
   year:   2014
   - authors:  C. Wang, C. Lan, S. Niu, X. Cao and M. Gong
-  title:  An ID-Based Certified E-mail Protocol with STTP Suitable for Wireless Mobile Environments
+  title:  "An ID-Based Certified E-mail Protocol with STTP Suitable for Wireless Mobile Environments"
   journal:  Journal of Computers, Vol. 8, No. 1, pp. 3 - 9  
   year:   2013
 - authors:  Q. Hu, Yang Wang and X. Cao
@@ -88,17 +88,3 @@
   journal:  IEEE/OSA Journal of Optical Communications and Networking, Vol. 5, No. 2, pp. 116-126
   abbvr:  JOCN
   year:   2013
-- authors:  Yang Wang, X. Cao, Q. Hu and Y. Pan
-  title:  Towards Elastic and Fine-granular Bandwidth Allocation in Spectrum-sliced Optical Networks
-  journal: IEEE/OSA Journal of Optical Communications and Networking, Vol. 4, No. 11, pp. 906-917 
-  abbvr:  JOCN
-  year:   2012
-- authors:  Yang Wang and X. Cao
-  title:  "Multi-granular Optical Switching: A Classified Overview for the Past and Future"
-  journal:  IEEE Communications Surveys & Tutorials, Vol. 14, No. 3, pp. 698-713
-  year:   2012
-- authors:  T. E. Calhoun, Jr., X. Cao, Y. Li, and R. Beyah
-  title:  An 802.11 MAC Layer Covert Channel
-  journal:  Wireless Communications and Mobile Computing, Vol. 12, No. 5
-  abbvr:  WCMC
-  year:   2012
