@@ -304,7 +304,46 @@
   conf:     International Conference on Computer Communications and Networks
   abbvr:   ICCCN   
   year:    2014 
-  
+- authors:  S. Shakya, X. Cao, Z. Ye and C. Qiao 
+  title:   Spectrum Allocation for Time-varying Traffic in Elastic Optical Networks using Traffic Pattern  
+  conf:    Optical Fiber Communication Conference and Exposition   
+  abbvr:    OFC
+  year:    2014    
+- authors:  Yang Wang, Q. Hu and X. Cao 
+  title:    "Connectivity as a Service: Towards Optical-based Network Virtualization" 
+  conf:     International Conference on Computing, Networking and Communications 
+  abbvr:     ICNC  
+  year:     2014   
+- authors:  L. Tian, Y. Zhou and X. Cao 
+  title:    A New Rate-Complexity-QP Algorithm (RCQA) for HEVC Intra-Picture Rate Control 
+  conf:   International Conference on Computing, Networking and Communications   
+  abbvr:    ICNC   
+  year:     2014   
+- authors:  K. Manandhar, X. Cao, F. Hu and Y. Liu 
+  title:   Combating False Data Injection Attacks in Smart Grid Using Kalman Filter  
+  conf:    International Conference on Computing, Networking and Communications  
+  abbvr:  ICNC     
+  year:   2014     
+- authors:  S. Shakya, Yang Wang, X. Cao, Z. Ye and C. Qiao
+  title:  Minimize Sub-carrier Reallocation in Elastic Optical Path Networks using Traffic Prediction   
+  conf:    IEEE Global Communications Conference  
+  abbvr:   GLOBECOM    
+  year:    2013    
+- authors:  C. Kong, X. Cao and M. Liu 
+  title:    Bayesian-based Video Sharing in Mobile Social Networks 
+  conf:    IEEE Global Communications Conference  
+  abbvr:   GLOBECOM    
+  year:   2013     
+- authors:   Q. Hu, Yang Wang and X. Cao
+  title:   Towards Survivable Network Virtualization  
+  conf:     IEEE International Conference on Communications 
+  abbvr:    ICC   
+  year:     2013   
+- authors:  Z. Ye, X. Cao, X. Gao and C. Qiao 
+  title:    A Predictive and Incremental Grooming Scheme for Time-varying Traffic in WDM Networks 
+  conf:   IEEE International Conference on Computer Communications   
+  abbvr:  INFOCOM     
+  year:   2013     
 
   
  
