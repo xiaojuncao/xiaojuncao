@@ -1,10 +1,25 @@
 - authors: D. Zheng, H. Gu, W. Wei, C. Peng and X. Cao
   title: Network Service Chaining and Embedding with Provable Boundaries
   journal: IEEE Internet of Things Journal
+  abbvr: IEEE IoT-J
   year: 2021
   pdf-link: https://ieeexplore.ieee.org/document/8924609
 - authors: D. Zheng, C. Peng, X. Liao and X. Cao
   title: Toward Optimal Hybrid Service Function Chain Embedding in Multiaccess Edge Computing
   journal: IEEE Internet of Things Journal
+  abbvr: IEEE IoT-J
   year: 2020
   pdf-link: https://ieeexplore.ieee.org/document/8924609
+- authors: C. Kong, G. Luo, L. Tian, and X. Cao
+  title: Disseminating authorized content via data analysis in opportunistic social networks
+  journal: Big Data Mining and Analytics
+  year: 2019
+- authors: D. Zheng, C. Peng, X. Liao, L. Tian, G. Luo and X. Cao
+  title: Towards Latency Optimization in Hybrid Service Function Chain Composition and Embedding
+  conf: IEEE International Conference on Computer Communications
+  abbvr: INFOCOM
+  year: 2020
+- authors: M. Jalalitabar, Y. Wang and X. Cao
+  title: Branch-Awareness in Service Function Graph Design and Embedding
+  conf: IEEE 40th Sarnoff Symposium
+  year: 2019
