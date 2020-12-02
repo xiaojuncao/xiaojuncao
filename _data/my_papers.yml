@@ -455,8 +455,121 @@
   conf:    IEEE Sarnoff  
   abbvr:       
   year:    2009    
- 
-  
+ - authors:  C. Xin and X. Cao 
+  title:    An Agile Lightpath Provisioning Paradigm for IP Over WDM Optical Networks 
+  conf:    Optical Fiber Communication Conference and Exposition  
+  abbvr:   OFC    
+  year:  2008
+- authors:   X. Cao and C. Xin
+  title:   Placement of Multi-Granular Optical Cross-Connects in WDM Networks  
+  conf:   Optical Fiber Communication Conference and Exposition   
+  abbvr:   OFC    
+  year:   2008     
+- authors:  E. Golen, N. Shenoy, and X. Cao 
+  title:    A Low Latency Scheme for Bulk RFID Tag Reading 
+  conf:     IEEE Wireless Communications & Networking Conference 
+  abbvr:   WCNC    
+  year:    2008    
+- authors: X. Cao  
+  title: Optimizing and Modeling Topology Design in High-speed Optical Wireless Communication Networks    
+  conf:   IEEE International Conference on Circuits & Systems for Communications   
+  abbvr:  ICCSC     
+  year:   2008     
+- authors:   N. Shenoy, X. Cao, S. Hild, and P. Cho
+  title:    A Turn Taking Medium Access Protocol for Wireless Ad Hoc Networks 
+  conf:   Military Communications Conference    
+  abbvr:   MILCOM    
+  year:   2007     
+- authors:  X. Cao, J. Joseph, J. Li, C. Xin 
+  title:  Group Schedule Serialized Traffic in Optical Burst Switching Networks   
+  conf:  IEEE International Conference on Broadband Communications, Networks, and Systems    
+  abbvr:  BROADNETS     
+  year:    2007    
+- authors: N. Shenoy, X. Cao, Y. Nozaki, S. Hild, and P. Chou  
+  title:  Neighbor Turn Taking MAC – A Loosely Scheduled Access Protocol for Wireless Networks   
+  conf:   IEEE 18th International Symposium on Personal, Indoor and Mobile Radio Communications    
+  abbvr:  PIMRC     
+  year:  2007  
+- authors:  X. Cao, S. Liu, L. Pan, and H. Wu 
+  title:  Enhanced Synchronized Medium Access Control Protocol for Wireless Ad Hoc Networks   
+  conf:  IEEE International Conference on Computer Communications and Networks    
+  abbvr:    ICCCN   
+  year:     2007   
+- authors: F. Hu, C. May, and X. Cao  
+  title:  "Data Aggregation in Distributed Sensor Networks: Towards An Adaptive Timing Control"   
+  conf:     ITNG 
+  abbvr:       
+  year:   2006     
+- authors:  F. Hu, X. Cao and S. Kumar 
+  title:   "Trustworthiness in Wireless Sensor and Actuator Networks: Towards Low-complexity Reliability and Security"  
+  conf:  IEEE Global Communications Conference    
+  abbvr:   GLOBECOM    
+  year:    2005    
+- authors: C. Xin, J. Li, X. Cao and B. Wang  
+  title:     Computing Loss Probability for Dynamic Traffic Grooming in Optical Networks with Wavelength Conversion
+  conf:    IEEE Global Communications Conference  
+  abbvr:    GLOBECOM   
+  year:   2005     
+- authors:   C. Xin, B. Wang, X. Cao and J. Li
+  title:    A heuristic logical topology design algorithm for multi-hop dynamic traffic grooming in WDM optical networks 
+  conf:    IEEE Global Communications Conference  
+  abbvr:  GLOBECOM     
+  year:  2005      
+- authors:  C. Xin, X. Cao, J. Li and B. Wang 
+  title:  A Route Segment Technique for Blocking Analysis of Dynamic Traffic Grooming   
+  conf:   IEEE/Create-Net International Workshop on Traffic Grooming, Co-located with IEEE/Create-Net BroadNets   
+  abbvr:       
+  year:   2005     
+- authors:   C. Xin, B. Wang, X. Cao and J. Li
+  title:     Formulation of Multi-Hop Dynamic Traffic Grooming in WDM Optical Networks
+  conf:     IEEE/Create-Net International Conference on Broadband Networks 
+  abbvr:  BROADNETS     
+  year:   2005     
+- authors:  V. Anand and X. Cao 
+  title:  "Waveband Switching: A Scalable and Cost Efficient Technique for Optical Network Design"   
+  conf:    International Conference on Internet Computing  
+  abbvr:    ICOMP   
+  year:    2005    
+- authors: F. Hu and X. Cao  
+  title:  "Security in Wireless Actor & Sensor Networks (WASN): Towards A Hierarchical Re-Keying Design"   
+  conf:  International Conference on Information Technology Coding and Computing    
+  abbvr:  ITCC     
+  year:  2005      
+- authors:   F. Hu, X. Cao, and C. May 
+  title:   Optimized Scheduling for Data Aggregation in Wireless Sensor Networks  
+  conf:   International Conference on Information Technology Coding and Computing   
+  abbvr:  ITCC     
+  year:   2005     
+- authors: J. Li, X. Cao and C. Xin  
+  title:    Dual Reservation in Optical Burst Switching Networks 
+  conf:    IEEE Sarnoff Symposium  
+  abbvr:       
+  year:   2005     
+- authors:  X. Cao, C. Qiao, V. Anand and J. Li 
+  title:   Wavelength Assignment in Waveband Switching Networks with Wavelength Conversion  
+  conf:   IEEE Global Communications Conference   
+  abbvr:  GLOBECOM     
+  year:   2004     
+- authors: X. Cao, V. Anand and C. Qiao  
+  title:  Multi-Layer versus Single-Layer Optical Cross-connect Architectures for Waveband Switching   
+  conf:  IEEE International Conference on Computer Communications    
+  abbvr:  INFOCOM     
+  year:     2004   
+- authors: X. Cao, V. Anand, Y. Xiong and C. Qiao   
+  title:   Performance Evaluation of Wavelength Band Switching in Multi-fiber All-Optical Networks  
+  conf:   IEEE International Conference on Computer Communications   
+  abbvr:  INFOCOM     
+  year:   2003     
+- authors:   X. Cao, Y. Xiong, V. Anand and C. Qiao
+  title:   Wavelength Band Switching in Multi-granular All-Optical Networks  
+  conf:    SPIE Optical Networking & Conference   
+  abbvr:   OPTICOMM    
+  year:    2002    
+- authors:   X. Cao, J. Li, Y. Chen and C. Qiao
+  title:   Assembling TCP/IP Packets in Optical Burst Switched Networks  
+  conf:    IEEE Global Communications Conference  
+  abbvr:   GLOBECOM    
+  year:   2002     
  
   
   
