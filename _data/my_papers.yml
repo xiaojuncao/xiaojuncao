@@ -1,17 +1,17 @@
 - authors: D. Zheng, H. Gu, W. Wei, C. Peng and X. Cao
   title: Network Service Chaining and Embedding with Provable Boundaries
   journal: IEEE Internet of Things Journal
-  abbvr: IEEE IoT-J
+  abbvr:  IoT-J
   year: 2021
   pdf-link: https://ieeexplore.ieee.org/document/8924609
 - authors: D. Zheng, C. Peng, X. Liao and X. Cao
   title: Toward Optimal Hybrid Service Function Chain Embedding in Multiaccess Edge Computing
   journal: IEEE Internet of Things Journal
-  abbvr: IEEE IoT-J
+  abbvr:  IoT-J
   year: 2020
   pdf-link: https://ieeexplore.ieee.org/document/8924609
 - authors: C. Kong, G. Luo, L. Tian, and X. Cao
-  title: Disseminating authorized content via data analysis in opportunistic social networks
+  title: Disseminating Authorized Content via Data Analysis in Opportunistic Social Networks
   journal: Big Data Mining and Analytics
   note: Yearly Excellent Paper Award, 2020
   year: 2019
@@ -72,7 +72,7 @@
 - authors:  Y. Zhang, L. Sun, H. Song and X. Cao
   title:  "Ubiquitous WSN for Healthcare: Recent Advances and Future Prospects"
   journal:  IEEE Internet of Things Journal, Vol. 1, No. 4, pp. 311-318
-  abbvr:  IEEE IoT-J
+  abbvr:   IoT-J
   year:   2014
 - authors:  C. Wang, C. Lan, S. Niu, X. Cao and M. Gong
   title:  "An ID-Based Certified E-mail Protocol with STTP Suitable for Wireless Mobile Environments"
@@ -375,6 +375,42 @@
   conf:    IEEE Sarnoff Symposium  
   abbvr:       
   year:   2012     
+- authors:   Q. Hu, Yang Wang and X. Cao
+  title:  Location-constrained Survivable Network Virtualization   
+  conf:      IEEE Sarnoff Symposium
+  abbvr:       
+  year:   2012     
+- authors:   Yang Wang and X. Cao
+  title:  Wavelength Retuning in Optical Waveband Switching Networks   
+  conf:   IEEE International Conference on Computer Communications and Networks   
+  abbvr:   ICCCN    
+  year:   2011     
+- authors:  Yang Wang, X. Cao and Q. Hu 
+  title:   Routing and Spectrum Allocation in Spectrum-sliced Elastic Optical Path Network  
+  conf:    IEEE International Conference on Communication  
+  abbvr:   ICC    
+  year:    2011    
+- authors:   Y. Wang, X. Cao and Y. Pan
+  title:   A Study on the Routing and Spectrum Allocation in SLICE Networks  
+  conf:  IEEE International Conference on Computer Communications    
+  abbvr:  INFOCOM     
+  year:   2011     
+- authors:  Yang Wang and X. Cao 
+  title:   Distributive Waveband Assignment in Multi-granular Optical Networks  
+  conf:   IEEE International Parallel & Distributed Processing Symposium   
+  abbvr:   IPDPS    
+  year:    2010    
+- authors: Yang Wang and X. Cao  
+  title:    Adaptive Waveband Switching in WDM Networks 
+  conf:   Optical Fiber Communication Conference and Exposition   
+  abbvr:  OFC     
+  year:   2010     
+- authors: C. Xin, G. Hsieh, and X. Cao  
+  title: Routing and Wavelength Assignment for an Agile Optical Network    
+  conf:   International Conference on Electronics and Information Engineering   
+  abbvr:   ICEIE    
+  year:  2010      
+
  
   
  
