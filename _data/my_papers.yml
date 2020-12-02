@@ -175,7 +175,7 @@
   book:  "Auerbach Publications; 1st edition, 531pages ISBN-10: 1420092154, ISBN-13: 978-1420092158"
   year:   2010
 - authors:  M. Jalalitabar, Y. Wang and X. Cao
-  title:  Branching-Aware Service Function Placement and Routing in Network Function Virtualization
+  title:  "Branching-Aware Service Function Placement and Routing in Network Function Virtualization"
   conf:  IEEE Conference on Network Function Virtualization and Software Defined Networks 
   abbvr:  NFV-SDN
   year:   2019
@@ -195,7 +195,7 @@
   abbvr:    ICC
   year:     2019
 - authors:   X. Liao, Y. Wu, and X. Cao 
-  title:  Second-order CoSimRank for Similarity Measures in Social Networks
+  title:  "Second-order CoSimRank for Similarity Measures in Social Networks"
   conf:   IEEE International Conference on Communications 
   abbvr:   ICC 
   year:     2019
