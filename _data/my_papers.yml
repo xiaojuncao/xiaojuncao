@@ -45,13 +45,11 @@
   year: 2017
 - authors:  Z. Ye, X. Cao, J. Wang, H. Yu and C. Qiao
   title:  Joint Topology Design and Mapping of Service Function Chains for Efficient, Scalable and Reliable Network Function Virtualization
-  journal:  IEEE Network, Vol. 30, No. 3, pp. 81-87
-  abbvr:  
+  journal:  IEEE Network, Vol. 30, No. 3, pp. 81-87 
   year: 2016
 - authors:  Yang Wang, Qian Hu and X. Cao
   title:  A Branch-and-Price Framework for Optimal Virtual Network Embedding
-  journal:  Elsevier Computer Networks, Vol 13, No. 39
-  abbvr:  
+  journal:  Elsevier Computer Networks, Vol 13, No. 39 
   year: 2015
 - authors:  X. Gao, Z. Ye, J. Fan, W. Zhong, Y. Zhao, X. Cao, H. Yu and C. Qiao
   title:  Virtual Network Mapping for Reliable Multicast Services with Max-Min Fairness of Reliability
@@ -60,8 +58,7 @@
   year: 2015
 - authors:  S. Shakya, X. Cao, Z. Ye and C. Qiao
   title:  Spectrum Allocation in Spectrum-sliced Elastic Optical Path Networks using Traffic Prediction
-  journal:  Springer Photonic Network Communication Journal, Vol. 30, No. 1, pp. 131 – 142
-  abbvr:  
+  journal:  Springer Photonic Network Communication Journal, Vol. 30, No. 1, pp. 131 – 142 
   year: 2015
 - authors:  K. Manandhar, X. Cao, F. Hu and Y. Liu
   title:  Detection of Faults and Attacks Including False Data Injection Attack in Smart Grid Using Kalman Filter
@@ -70,8 +67,7 @@
   year:   2014
 - authors:  Z. Ye, X. Li, A. Patel, P. Ji, X. Cao, and C. Qiao
   title:  Upgrade-aware Virtual Infrastructure Mapping in Software-Defined Elastic Optical Networks
-  journal:  Springer Photonic Network Communication Journal, Vol. 28, No. 1, pp. 34 - 44
-  abbvr:  
+  journal:  Springer Photonic Network Communication Journal, Vol. 28, No. 1, pp. 34 - 44  
   year:   2014
 - authors:  	Y. Zhang, L. Sun, H. Song and X. Cao
   title:  Ubiquitous WSN for Healthcare: Recent Advances and Future Prospects
@@ -80,8 +76,7 @@
   year:   2014
 - authors:  C. Wang, C. Lan, S. Niu, X. Cao and M. Gong
   title:  An ID-Based Certified E-mail Protocol with STTP Suitable for Wireless Mobile Environments
-  journal:  Journal of Computers, Vol. 8, No. 1, pp. 3 - 9
-  abbvr:  
+  journal:  Journal of Computers, Vol. 8, No. 1, pp. 3 - 9  
   year:   2013
 - authors:  Q. Hu, Yang Wang and X. Cao
   title:  Survivable Network Virtualization for a Single Facility Node Failure: A Network Flow Perspective
@@ -101,7 +96,6 @@
 - authors:  Yang Wang and X. Cao
   title:  Multi-granular Optical Switching: A Classified Overview for the Past and Future
   journal:  IEEE Communications Surveys & Tutorials, Vol. 14, No. 3, pp. 698-713
-  abbvr:  
   year:   2012
 - authors:  T. E. Calhoun, Jr., X. Cao, Y. Li, and R. Beyah
   title:  An 802.11 MAC Layer Covert Channel
@@ -125,8 +119,7 @@
   year:   2009
 - authors:  X. Cao, J. Joseph, J. Li, and C. Xin
   title:  Serialized Batch Scheduling Algorithm for Optical Burst Switching Networks
-  journal:  IET Journal of Communications, VOL.3, NO. 3, pp.353-362
-  abbvr:  
+  journal:  IET Journal of Communications, VOL.3, NO. 3, pp.353-362  
   year:   2009
 - authors:  V. Anand*, X. Cao, S. Sheeshia, C. Xin and C. Qiao
   title:  Fiber-Optical Communication Networks
@@ -141,12 +134,10 @@
 - authors: X. Cao, V. Anand and C. Qiao 
   title:  A Framework for Waveband Switching in Multi-Granular Optical Networks - Part II
   journal:  OSA Journal of Optical Networking, Vol. 6, No. 1, pp. 48-62
-  abbvr:  
   year:   2007
 - authors:  X. Cao, V. Anand and C. Qiao
   title:  A Framework for Waveband Switching in Multi-Granular Optical Networks - Part I
-  journal:  OSA Journal of Optical Networking, Vol. 5, No. 12, pp. 1043-1055
-  abbvr:  
+  journal:  OSA Journal of Optical Networking, Vol. 5, No. 12, pp. 1043-1055  
   year:   2006
 - authors:  C. Xin, B. Wang, X. Cao and J. Li
   title:  Logical Topology Design for Dynamic Traffic Grooming in Mesh WDM Optical Networks
@@ -155,13 +146,11 @@
   year:   2006
 - authors:  F. Hu, W. Siddiqui and X. Cao
   title:  SPECTRA: Secure Power-Efficient Clustered-Topology Routing Algorithm in Large-scale Wireless micro-Sensor Networks
-  journal:  International Journal of Information Technology, Vol. 11, No.2, pp. 95-118
-  abbvr:  
+  journal:  International Journal of Information Technology, Vol. 11, No.2, pp. 95-118  
   year:   2005
 - authors:  X. Cao, V. Anand, J. Li and C. Xin
   title:  Waveband Switching Networks with Limited Wavelength Conversion
-  journal:  IEEE Communications Letters, Vol. 9, No.7, pp.646-648
-  abbvr:  
+  journal:  IEEE Communications Letters, Vol. 9, No.7, pp.646-648 
   year:   2005
 - authors:  X. Yu, J. Li, X. Cao, Y, Chen and C. Qiao
   title:  Traffic Statistics and Performance Evaluation in Optical Burst Switched Networks
@@ -175,13 +164,11 @@
   year:   2003
 - authors:  X. Cao, V. Anand, and C. Qiao
   title:  A Waveband Switching Architecture and Algorithm for Dynamic Traffic
-  journal:  IEEE Communications Letters, Vol. 7, No. 8, pp. 397-399
-  abbvr:  
+  journal:  IEEE Communications Letters, Vol. 7, No. 8, pp. 397-399 
   year:   2003
 - authors:  X. Cao, V. Anand and C. Qiao
   title:  Waveband Switching in Optical Networks
-  journal:  IEEE Communications Magazine, Vol. 41, No. 4, pp. 105-112
-  abbvr:  
+  journal:  IEEE Communications Magazine, Vol. 41, No. 4, pp. 105-112  
   year:   2003
 - authors: F. Hu and X. Cao
   title:  Wireless Sensor Networks: Principles and Practice (Hardcover)
@@ -192,7 +179,5 @@
   conf:  IEEE Conference on Network Function Virtualization and Software Defined Networks 
   abbvr:  NFV-SDN
   year:   2019
- 
-
 
   
