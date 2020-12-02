@@ -47,7 +47,7 @@
   title:  Joint Topology Design and Mapping of Service Function Chains for Efficient, Scalable and Reliable Network Function Virtualization
   journal:  IEEE Network, Vol. 30, No. 3, pp. 81-87 
   year: 2016
-  - authors:  Yang Wang, Qian Hu and X. Cao
+- authors:  Yang Wang, Qian Hu and X. Cao
   title:  A Branch-and-Price Framework for Optimal Virtual Network Embedding
   journal:  Elsevier Computer Networks, Vol 13, No. 39 
   year: 2015
@@ -69,7 +69,7 @@
   title:  Upgrade-aware Virtual Infrastructure Mapping in Software-Defined Elastic Optical Networks
   journal:  Springer Photonic Network Communication Journal, Vol. 28, No. 1, pp. 34 - 44  
   year:   2014
-- authors:  	Y. Zhang, L. Sun, H. Song and X. Cao
+- authors:  Y. Zhang, L. Sun, H. Song and X. Cao
   title:  Ubiquitous WSN for Healthcare: Recent Advances and Future Prospects
   journal:  IEEE Internet of Things Journal, Vol. 1, No. 4, pp. 311-318
   abbvr:  IEEE IoT-J
