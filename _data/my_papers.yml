@@ -344,7 +344,38 @@
   conf:   IEEE International Conference on Computer Communications   
   abbvr:  INFOCOM     
   year:   2013     
-
+- authors:   Q. Hu, Yang Wang and X. Cao 
+  title:  "Resolve the Virtual Network Embedding Problem: a Column Generation Approach"   
+  conf:   IEEE International Conference on Computer Communications   
+  abbvr:  INFOCOM     
+  year:   2013     
+- authors:   S. Shakya and X. Cao
+  title:   Spectral Defragmentation in Elastic Optical Path Networks using Independent Sets  
+  conf:    Optical Fiber Communication Conference and Exposition   
+  abbvr:   OFC   
+  note: Invited paper
+  year:    2013    
+- authors:  Yang Wang, X. Cao and C. Qiao 
+  title:   Minimize Sub-carrier Re-allocation Overhead in SLICE Networks with Dynamic Traffic  
+  conf:   Optical Fiber Communication Conference and Exposition   
+  abbvr:  OFC     
+  year:   2013     
+- authors: Yang Wang, X. Cao, A. Caciula and Q. Hu  
+  title:   Batch Scheduling in Optical Networks with Feedback/Feed-forward Fiber Delay Lines  
+  conf:   IEEE Global Communications Conference   
+  abbvr:  GLOBECOM     
+  year:  2012      
+- authors:  A. Rea, X. Cao; A. Gupta and N. Shenoy 
+  title:   A Secure Cloud Internetwork Model with Economic and Social Incentives (SCIMES)  
+  conf:    18th Americas Conference on Information Systems  
+  abbvr:   AMCIS    
+  year:   2012     
+- authors:   K. Manandhar, X. Cao, and F. Hu
+  title:  Attack Detection in Water Supply Systems using Kalman Filter Estimator   
+  conf:    IEEE Sarnoff Symposium  
+  abbvr:       
+  year:   2012     
+ 
   
  
   
