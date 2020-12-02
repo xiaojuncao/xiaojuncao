@@ -47,3 +47,30 @@
   title:  Joint Topology Design and Mapping of Service Function Chains for Efficient, Scalable and Reliable Network Function Virtualization
   journal:  IEEE Network, Vol. 30, No. 3, pp. 81-87 
   year: 2016
+  - authors:  Yang Wang, Qian Hu and X. Cao
+  title:  A Branch-and-Price Framework for Optimal Virtual Network Embedding
+  journal:  Elsevier Computer Networks, Vol 13, No. 39 
+  year: 2015
+- authors:  X. Gao, Z. Ye, J. Fan, W. Zhong, Y. Zhao, X. Cao, H. Yu and C. Qiao
+  title:  Virtual Network Mapping for Reliable Multicast Services with Max-Min Fairness of Reliability
+  journal:  IEEE/OSA Journal of Optical Communications and Networking, Vol. 7, No. 9, pp. 942-951
+  abbvr:  JOCN
+  year: 2015
+- authors:  S. Shakya, X. Cao, Z. Ye and C. Qiao
+  title:  Spectrum Allocation in Spectrum-sliced Elastic Optical Path Networks using Traffic Prediction
+  journal:  Springer Photonic Network Communication Journal, Vol. 30, No. 1, pp. 131 – 142 
+  year: 2015
+- authors:  K. Manandhar, X. Cao, F. Hu and Y. Liu
+  title:  Detection of Faults and Attacks Including False Data Injection Attack in Smart Grid Using Kalman Filter
+  journal:  IEEE Transactions on Control of Network Systems, Vol. 1, No. 4, pp. 370 – 379
+  abbvr:  TCNS
+  year:   2014
+- authors:  Z. Ye, X. Li, A. Patel, P. Ji, X. Cao, and C. Qiao
+  title:  Upgrade-aware Virtual Infrastructure Mapping in Software-Defined Elastic Optical Networks
+  journal:  Springer Photonic Network Communication Journal, Vol. 28, No. 1, pp. 34 - 44  
+  year:   2014
+- authors:  	Y. Zhang, L. Sun, H. Song and X. Cao
+  title:  Ubiquitous WSN for Healthcare: Recent Advances and Future Prospects
+  journal:  IEEE Internet of Things Journal, Vol. 1, No. 4, pp. 311-318
+  abbvr:  IEEE IoT-J
+  year:   2014
