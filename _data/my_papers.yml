@@ -410,7 +410,51 @@
   conf:   International Conference on Electronics and Information Engineering   
   abbvr:   ICEIE    
   year:  2010      
-
+- authors:   Yang Wang and X. Cao
+  title:   Non-uniform Waveband Switching in Multi-granular Optical Networks  
+  conf:   IEEE Global Communications Conference   
+  abbvr:  GLOBECOM     
+  year:    2009    
+- authors:  X. Cao, Y. Wang and A. Zelikovsky 
+  title:   Scheduling Bursts using Interval Graphs in Optical Burst Switching Networks  
+  conf:   IEEE Global Communications Conference   
+  abbvr:  GLOBECOM     
+  year:  2009      
+- authors:  C. Xin and X. Cao 
+  title:  A Cognitive Radio Network Architecture Without Control Channel   
+  conf:  IEEE Global Communications Conference    
+  abbvr:   GLOBECOM    
+  year:   2009     
+- authors:   X. Cao, Yang Wang, Y. Wang and A. Caciula
+  title:   Developing a Multifunctional Network Laboratory for Teaching and Research  
+  conf:   ACM SIGITE   
+  abbvr:       
+  year:    2009    
+- authors:  X. Cao, B. Chakrabarty, Yang Wang and F. Hu 
+  title:    An Energy-efficient Disjoint Path Routing Approach for Wireless Ad-hoc Networks 
+  conf:    ISCA 22nd Parallel and Distributed Computing and Communication Systems  
+  abbvr:  PDCCS     
+  year:    2009    
+- authors:   X. Cao, Y. Wang, Yang Wang and C. Xin
+  title:    Tree-based Burst Aggregation in Optical Burst Switching Networks 
+  conf:   SCA 22nd Parallel and Distributed Computing and Communication Systems   
+  abbvr:   PDCCS    
+  year:   2009     
+- authors: Yang Wang and X. Cao  
+  title:   A New Hierarchical Waveband Assignment Algorithm for Multi-granular Optical Networks  
+  conf:   IEEE International Conference on Computer Communications and Networks   
+  abbvr:  ICCCN     
+  year:   2009     
+- authors:  C. Wang, X. Yang, C. Lan, and X. Cao 
+  title:    An Efficient Identity-based Certified E-mail Protocol 
+  conf:    Fifth International Conference on Intelligent Information Hiding and Multimedia Signal Processing  
+  abbvr:  IIHMSP     
+  year:    2009    
+- authors:  Yang Wang and X. Cao 
+  title:  Band-segment Protection in Multi-granular Optical Networks   
+  conf:    IEEE Sarnoff  
+  abbvr:       
+  year:    2009    
  
   
  
