@@ -274,8 +274,38 @@
   conf:   IEEE International Conference on Communications 
   abbvr:   ICC  
   year:    2015  
+- authors:   N. Kadu, S. Shakya and X. Cao
+  title:    Modulation-aware Multipath Routing and Spectrum Allocation in Elastic Optical Networks
+  conf:     IEEE International Conference on Advanced Networks and Telecommunication Systems
+  abbvr:      ANTS
+  year:     2014
+- authors:  S. Shakya, N. Pradhan, X. Cao, Z. Ye and C. Qiao 
+  title:    Virtual Network Embedding and Reconfiguration in Elastic Optical Networks
+  conf:     IEEE Global Communications Conference
+  abbvr:    GLOBECOM 
+  year:    2014 
+- authors:  K. Manandhar and X. Cao 
+  title:   "Attacks/Faults Detection and Isolation in the Smart Grid using Kalman Filter" 
+  conf:     International Conference on Computer Communications and Network
+  abbvr:    ICCCN  
+  year:     2014
+- authors:  Q. Hu, Yang Wang and X. Cao 
+  title:   "Virtual Network Embedding: An Optimal Decomposition Approach"
+  conf:     International Conference on Computer Communications and Networks
+  abbvr:  ICCCN    
+  year:    2014 
+- authors: C. Kong and X. Cao 
+  title:   Semi-Controlled Authorized Information Dissemination in Content-Based Social Networks 
+  conf:     International Conference on Computer Communications and Networks
+  abbvr:    ICCCN  
+  year:     2014
+- authors:  K. Manandhar, B. Adcock and X. Cao 
+  title:    Preserving the Anonymity in MobilityFirst Networks
+  conf:     International Conference on Computer Communications and Networks
+  abbvr:   ICCCN   
+  year:    2014 
   
-  
+
   
  
   
