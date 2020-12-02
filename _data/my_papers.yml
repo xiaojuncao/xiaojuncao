@@ -199,7 +199,36 @@
   conf:   IEEE International Conference on Communications 
   abbvr:   ICC 
   year:     2019
-
+- authors:  D. Zheng, E. Guler, C. Peng, G. Luo, L. Tian, and X. Cao  
+  title:  Dependence-Aware Service Function Chain Embedding in Optical Networks
+  conf:   IEEE International Conference on Communications
+  abbvr:   ICC 
+  year:     2019
+- authors:  E. Guler, D. Zheng, G. Luo, L. Tian and X. Cao  
+  title:  Embedding Multicast Services in Optical Networks with Fanout Limitation
+  conf:   IEEE International Conference on Communications
+  abbvr:  ICC  
+  year:   2018  
+- authors:  M. Jalalitabar, E. Guler, G. Luo, L. Tian and X. Cao  
+  title:  Dependence-Aware Service Function Chain Design and Mapping
+  conf:   IEEE Global Communications Conference
+  abbvr:    GLOBECOM
+  year:     2017
+- authors:   E. Guler, D. Zheng, G. Luo, L. Tian and X. Cao 
+  title:  Virtual Multicast Tree Embedding Over Elastic Optical Networks
+  conf:   IEEE Global Communications Conference
+  abbvr:    GLOBECOM
+  year:     2017
+- authors:   B. Camp, J. Mandivarapu, J. Mehta, N. Ramamurthy, J. Wingo, A. G. Bourgeois, X. Cao and R. Sunderraman 
+  title:  A Cross-Platform System Architecture for Form Design and Data Analytics for Public Health
+  conf:   BCB
+  abbvr:    
+  year:   2017  
+- authors: E. Guler, D. Zheng, G. Luo, L. Tian and X. Cao   
+  title:  Embedding virtual multicast trees in software-defined networks
+  conf:   IEEE International Conference on Communications 
+  abbvr:    ICC
+  year:     2017
 
   
   
