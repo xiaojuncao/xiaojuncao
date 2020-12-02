@@ -229,8 +229,51 @@
   conf:   IEEE International Conference on Communications 
   abbvr:    ICC
   year:     2017
-
-  
+- authors:   C. Kong, G. Luo, L. Tian and X. Cao 
+  title:  Optimizing Social Connections for Efficient Information Acquirement
+  conf:   IEEE Global Communications Conference
+  abbvr:    GLOBECOM
+  year:    2016 
+- authors:    E. Guler, G. Luo, K. Koneru and X. Cao
+  title:  Closeness-Centrality Based Multicast-Aware Virtual Network Embedding
+  conf:   IEEE Global Communications Conference
+  abbvr:  GLOBECOM  
+  year:   2016  
+- authors:   M. Jalalitabar, G. Luo, C. Kong and X. Cao 
+  title:  Service Function Graph Design and Mapping for NFV with Priority Dependence
+  conf:   IEEE Global Communications Conference
+  abbvr:  GLOBECOM  
+  year:   2016  
+- authors:  Z. Ye, X. Cao, C. Qiao  
+  title:  Joint Topology Design and Mapping of Service Function Chains in Network Function Virtualization
+  conf:   IEEE Global Communications Conference
+  abbvr:  GLOBECOM  
+  year:   2016  
+- authors: S. Shakya and X. Cao  
+  title:   Transparent Virtual Network Embedding in Elastic Optical Networks
+  conf:    IEEE Sarnoff Symposium
+  abbvr:     
+  year:      2016
+- authors:   X. Gao, W. Zhong, Z. Ye, Y. Zhao, J. Fan, X. Cao, H. Yu and C. Qiao
+  title:   Virtual Network Mapping for Reliable Multicast Services with Max-Min Fairness
+  conf:    IEEE Global Communications Conference
+  abbvr:    GLOBECOM 
+  year:    2015  
+- authors:  K. Manandhar and X. Cao 
+  title:   Optimizing Load Schedule for Building Energy Management in Smart Grids
+  conf:    International Conference on Computer Communications and Networks
+  abbvr:   ICCCN  
+  year:    2015  
+- authors:   C. Kong and X. Cao
+  title:   Disseminating Authorized Content in Interest-centric Opportunistic Social Networks
+  conf:    International Conference on Computer Communications and Networks
+  abbvr:     ICCCN
+  year:      2015
+- authors:  X. Gao, Z. Ye, W. Zhong, C. Qiao, X. Cao, H. Zhao, H. Yu and V. Anand 
+  title:   Multicast Service-oriented Virtual Network Mapping Over Elastic Optical Networks
+  conf:   IEEE International Conference on Communications 
+  abbvr:   ICC  
+  year:    2015  
   
   
   
